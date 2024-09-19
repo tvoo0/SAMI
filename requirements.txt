@@ -1,0 +1,7 @@
+os
+groq
+dotenv
+SpeechRecognition
+pyttsx3
+datetime
+tkinter
